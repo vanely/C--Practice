@@ -1,0 +1,11 @@
+C:\Users\Vanely\Practice_Space\C#\Learning\obj\Debug\netcoreapp3.1\Learning.csprojAssemblyReference.cache
+C:\Users\Vanely\Practice_Space\C#\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfoInputs.cache
+C:\Users\Vanely\Practice_Space\C#\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfo.cs
+C:\Users\Vanely\Practice_Space\C#\Learning\bin\Debug\netcoreapp3.1\Learning.exe
+C:\Users\Vanely\Practice_Space\C#\Learning\bin\Debug\netcoreapp3.1\Learning.deps.json
+C:\Users\Vanely\Practice_Space\C#\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.json
+C:\Users\Vanely\Practice_Space\C#\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.dev.json
+C:\Users\Vanely\Practice_Space\C#\Learning\bin\Debug\netcoreapp3.1\Learning.dll
+C:\Users\Vanely\Practice_Space\C#\Learning\bin\Debug\netcoreapp3.1\Learning.pdb
+C:\Users\Vanely\Practice_Space\C#\Learning\obj\Debug\netcoreapp3.1\Learning.dll
+C:\Users\Vanely\Practice_Space\C#\Learning\obj\Debug\netcoreapp3.1\Learning.pdb
